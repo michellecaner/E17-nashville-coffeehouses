@@ -1,0 +1,22 @@
+.pageHeader {
+  text-align: center;
+  font-size: larger;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.shop {
+  display: flex;
+  border-style: dotted;
+  width: 300px;
+  padding: 5px;
+  text-align: left;
+  /* justify-content: space-between; */
+ 
+}
